@@ -1,12 +1,6 @@
-## IMPORTANT!
+# MediocreMapper Mk9
 
-## This project is no longer being worked on. For a more complete, 3D editor for Beat Saber tracks, check out Ikeiwa's project Edit Saber
-
-https://github.com/Ikeiwa/EditSaber
-
-# Beat Saber Unofficial 2D Track Editor
-
-## This project is currently functional, but the features are limited.
+## This project is very functional, but the features are.
 
 Currently supports:
 
@@ -27,7 +21,7 @@ To run:
 
 ## Grab the latest binary from the Releases tab
 
-https://github.com/megalon/BeatSaber-UnofficialTrackEditor/releases
+https://github.com/squeaksies/BeatSaber-UnofficialTrackEditor/releases
 
 If you are using the Mac OS app, you will need to manually allow it in gatekeeper since it's unsigned. 
 
@@ -67,7 +61,7 @@ If someone can somehow get .ogg support working, I may pick this project back up
 
 ## Next steps:
 
-Roadmap if the project was picked up again:
+Roadmap again:
 
 .ogg support!
 
